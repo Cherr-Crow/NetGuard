@@ -1,0 +1,111 @@
+C:\Users\ardan\OneDrive\Desktop\LAN inside\Client\Client\bin\Debug\net8.0\Client.exe
+C:\Users\ardan\OneDrive\Desktop\LAN inside\Client\Client\bin\Debug\net8.0\Client.deps.json
+C:\Users\ardan\OneDrive\Desktop\LAN inside\Client\Client\bin\Debug\net8.0\Client.runtimeconfig.json
+C:\Users\ardan\OneDrive\Desktop\LAN inside\Client\Client\bin\Debug\net8.0\Client.dll
+C:\Users\ardan\OneDrive\Desktop\LAN inside\Client\Client\bin\Debug\net8.0\Client.pdb
+C:\Users\ardan\OneDrive\Desktop\LAN inside\Client\Client\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\ardan\OneDrive\Desktop\LAN inside\Client\Client\bin\Debug\net8.0\System.Management.dll
+C:\Users\ardan\OneDrive\Desktop\LAN inside\Client\Client\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Management.dll
+C:\Users\ardan\OneDrive\Desktop\LAN inside\Client\Client\obj\Debug\net8.0\Client.csproj.AssemblyReference.cache
+C:\Users\ardan\OneDrive\Desktop\LAN inside\Client\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardan\OneDrive\Desktop\LAN inside\Client\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+C:\Users\ardan\OneDrive\Desktop\LAN inside\Client\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+C:\Users\ardan\OneDrive\Desktop\LAN inside\Client\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\ardan\OneDrive\Desktop\LAN inside\Client\Client\obj\Debug\net8.0\Client.csproj.CopyComplete
+C:\Users\ardan\OneDrive\Desktop\LAN inside\Client\Client\obj\Debug\net8.0\Client.dll
+C:\Users\ardan\OneDrive\Desktop\LAN inside\Client\Client\obj\Debug\net8.0\refint\Client.dll
+C:\Users\ardan\OneDrive\Desktop\LAN inside\Client\Client\obj\Debug\net8.0\Client.pdb
+C:\Users\ardan\OneDrive\Desktop\LAN inside\Client\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
+C:\Users\ardan\OneDrive\Desktop\LAN inside\Client\Client\obj\Debug\net8.0\ref\Client.dll
+C:\Users\ardan\Source\Repos\LAN-inside\Client\Client\bin\Debug\net8.0\Client.exe
+C:\Users\ardan\Source\Repos\LAN-inside\Client\Client\bin\Debug\net8.0\Client.deps.json
+C:\Users\ardan\Source\Repos\LAN-inside\Client\Client\bin\Debug\net8.0\Client.runtimeconfig.json
+C:\Users\ardan\Source\Repos\LAN-inside\Client\Client\bin\Debug\net8.0\Client.dll
+C:\Users\ardan\Source\Repos\LAN-inside\Client\Client\bin\Debug\net8.0\Client.pdb
+C:\Users\ardan\Source\Repos\LAN-inside\Client\Client\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\ardan\Source\Repos\LAN-inside\Client\Client\bin\Debug\net8.0\System.Management.dll
+C:\Users\ardan\Source\Repos\LAN-inside\Client\Client\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Management.dll
+C:\Users\ardan\Source\Repos\LAN-inside\Client\Client\obj\Debug\net8.0\Client.csproj.AssemblyReference.cache
+C:\Users\ardan\Source\Repos\LAN-inside\Client\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardan\Source\Repos\LAN-inside\Client\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+C:\Users\ardan\Source\Repos\LAN-inside\Client\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+C:\Users\ardan\Source\Repos\LAN-inside\Client\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\ardan\Source\Repos\LAN-inside\Client\Client\obj\Debug\net8.0\Client.sourcelink.json
+C:\Users\ardan\Source\Repos\LAN-inside\Client\Client\obj\Debug\net8.0\Client.csproj.CopyComplete
+C:\Users\ardan\Source\Repos\LAN-inside\Client\Client\obj\Debug\net8.0\Client.dll
+C:\Users\ardan\Source\Repos\LAN-inside\Client\Client\obj\Debug\net8.0\refint\Client.dll
+C:\Users\ardan\Source\Repos\LAN-inside\Client\Client\obj\Debug\net8.0\Client.pdb
+C:\Users\ardan\Source\Repos\LAN-inside\Client\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
+C:\Users\ardan\Source\Repos\LAN-inside\Client\Client\obj\Debug\net8.0\ref\Client.dll
+C:\Users\ardan\source\repos\LAN-inside\Client\Client\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\memodel\Source\Repos\LAN-inside\Client\Client\bin\Debug\net8.0\Client.exe
+C:\Users\memodel\Source\Repos\LAN-inside\Client\Client\bin\Debug\net8.0\Client.deps.json
+C:\Users\memodel\Source\Repos\LAN-inside\Client\Client\bin\Debug\net8.0\Client.runtimeconfig.json
+C:\Users\memodel\Source\Repos\LAN-inside\Client\Client\bin\Debug\net8.0\Client.dll
+C:\Users\memodel\Source\Repos\LAN-inside\Client\Client\bin\Debug\net8.0\Client.pdb
+C:\Users\memodel\Source\Repos\LAN-inside\Client\Client\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\memodel\Source\Repos\LAN-inside\Client\Client\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\memodel\Source\Repos\LAN-inside\Client\Client\bin\Debug\net8.0\System.Management.dll
+C:\Users\memodel\Source\Repos\LAN-inside\Client\Client\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Management.dll
+C:\Users\memodel\Source\Repos\LAN-inside\Client\Client\obj\Debug\net8.0\Client.csproj.AssemblyReference.cache
+C:\Users\memodel\Source\Repos\LAN-inside\Client\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memodel\Source\Repos\LAN-inside\Client\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+C:\Users\memodel\Source\Repos\LAN-inside\Client\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+C:\Users\memodel\Source\Repos\LAN-inside\Client\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\memodel\Source\Repos\LAN-inside\Client\Client\obj\Debug\net8.0\Client.sourcelink.json
+C:\Users\memodel\Source\Repos\LAN-inside\Client\Client\obj\Debug\net8.0\Client.csproj.CopyComplete
+C:\Users\memodel\Source\Repos\LAN-inside\Client\Client\obj\Debug\net8.0\Client.dll
+C:\Users\memodel\Source\Repos\LAN-inside\Client\Client\obj\Debug\net8.0\refint\Client.dll
+C:\Users\memodel\Source\Repos\LAN-inside\Client\Client\obj\Debug\net8.0\Client.pdb
+C:\Users\memodel\Source\Repos\LAN-inside\Client\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
+C:\Users\memodel\Source\Repos\LAN-inside\Client\Client\obj\Debug\net8.0\ref\Client.dll
+C:\Users\ardan\source\repos\LAN-inside\Client\Client\obj\Debug\net8.0\Interop.NetFwTypeLib.dll
+C:\Users\ardan\source\repos\LAN-inside\Client\Client\obj\Debug\net8.0\Client.csproj.ResolveComReference.cache
+C:\Users\memodel\source\repos\LAN-inside\Client\Client\obj\Debug\net8.0\Interop.NetFwTypeLib.dll
+C:\Users\memodel\source\repos\LAN-inside\Client\Client\obj\Debug\net8.0\Client.csproj.ResolveComReference.cache
+C:\Users\s1ren\source\repos\LAN-inside\Client\Client\bin\Debug\net8.0\Client.exe
+C:\Users\s1ren\source\repos\LAN-inside\Client\Client\bin\Debug\net8.0\Client.deps.json
+C:\Users\s1ren\source\repos\LAN-inside\Client\Client\bin\Debug\net8.0\Client.runtimeconfig.json
+C:\Users\s1ren\source\repos\LAN-inside\Client\Client\bin\Debug\net8.0\Client.dll
+C:\Users\s1ren\source\repos\LAN-inside\Client\Client\bin\Debug\net8.0\Client.pdb
+C:\Users\s1ren\source\repos\LAN-inside\Client\Client\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\s1ren\source\repos\LAN-inside\Client\Client\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\s1ren\source\repos\LAN-inside\Client\Client\bin\Debug\net8.0\System.Management.dll
+C:\Users\s1ren\source\repos\LAN-inside\Client\Client\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Management.dll
+C:\Users\s1ren\source\repos\LAN-inside\Client\Client\obj\Debug\net8.0\Client.csproj.AssemblyReference.cache
+C:\Users\s1ren\source\repos\LAN-inside\Client\Client\obj\Debug\net8.0\Interop.NetFwTypeLib.dll
+C:\Users\s1ren\source\repos\LAN-inside\Client\Client\obj\Debug\net8.0\Client.csproj.ResolveComReference.cache
+C:\Users\s1ren\source\repos\LAN-inside\Client\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s1ren\source\repos\LAN-inside\Client\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+C:\Users\s1ren\source\repos\LAN-inside\Client\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+C:\Users\s1ren\source\repos\LAN-inside\Client\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\s1ren\source\repos\LAN-inside\Client\Client\obj\Debug\net8.0\Client.sourcelink.json
+C:\Users\s1ren\source\repos\LAN-inside\Client\Client\obj\Debug\net8.0\Client.csproj.CopyComplete
+C:\Users\s1ren\source\repos\LAN-inside\Client\Client\obj\Debug\net8.0\Client.dll
+C:\Users\s1ren\source\repos\LAN-inside\Client\Client\obj\Debug\net8.0\refint\Client.dll
+C:\Users\s1ren\source\repos\LAN-inside\Client\Client\obj\Debug\net8.0\Client.pdb
+C:\Users\s1ren\source\repos\LAN-inside\Client\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
+C:\Users\s1ren\source\repos\LAN-inside\Client\Client\obj\Debug\net8.0\ref\Client.dll
+C:\Users\SR-ST\Desktop\ardan\LAN-inside\Client\Client\bin\Debug\net8.0\Client.exe
+C:\Users\SR-ST\Desktop\ardan\LAN-inside\Client\Client\bin\Debug\net8.0\Client.deps.json
+C:\Users\SR-ST\Desktop\ardan\LAN-inside\Client\Client\bin\Debug\net8.0\Client.runtimeconfig.json
+C:\Users\SR-ST\Desktop\ardan\LAN-inside\Client\Client\bin\Debug\net8.0\Client.dll
+C:\Users\SR-ST\Desktop\ardan\LAN-inside\Client\Client\bin\Debug\net8.0\Client.pdb
+C:\Users\SR-ST\Desktop\ardan\LAN-inside\Client\Client\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\SR-ST\Desktop\ardan\LAN-inside\Client\Client\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\SR-ST\Desktop\ardan\LAN-inside\Client\Client\bin\Debug\net8.0\System.Management.dll
+C:\Users\SR-ST\Desktop\ardan\LAN-inside\Client\Client\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Management.dll
+C:\Users\SR-ST\Desktop\ardan\LAN-inside\Client\Client\obj\Debug\net8.0\Client.csproj.AssemblyReference.cache
+C:\Users\SR-ST\Desktop\ardan\LAN-inside\Client\Client\obj\Debug\net8.0\Interop.NetFwTypeLib.dll
+C:\Users\SR-ST\Desktop\ardan\LAN-inside\Client\Client\obj\Debug\net8.0\Client.csproj.ResolveComReference.cache
+C:\Users\SR-ST\Desktop\ardan\LAN-inside\Client\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SR-ST\Desktop\ardan\LAN-inside\Client\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+C:\Users\SR-ST\Desktop\ardan\LAN-inside\Client\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+C:\Users\SR-ST\Desktop\ardan\LAN-inside\Client\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\SR-ST\Desktop\ardan\LAN-inside\Client\Client\obj\Debug\net8.0\Client.sourcelink.json
+C:\Users\SR-ST\Desktop\ardan\LAN-inside\Client\Client\obj\Debug\net8.0\Client.csproj.Up2Date
+C:\Users\SR-ST\Desktop\ardan\LAN-inside\Client\Client\obj\Debug\net8.0\Client.dll
+C:\Users\SR-ST\Desktop\ardan\LAN-inside\Client\Client\obj\Debug\net8.0\refint\Client.dll
+C:\Users\SR-ST\Desktop\ardan\LAN-inside\Client\Client\obj\Debug\net8.0\Client.pdb
+C:\Users\SR-ST\Desktop\ardan\LAN-inside\Client\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
+C:\Users\SR-ST\Desktop\ardan\LAN-inside\Client\Client\obj\Debug\net8.0\ref\Client.dll
